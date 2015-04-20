@@ -24,7 +24,7 @@ public class Customer {
 	@Id
 	@GeneratedValue(strategy = GenerationType.AUTO)
 	private Long id;
-	
+	//asdkdfbkfhao
 	@Column(nullable=false)
 	private String firstName;
 	private String lastName;
