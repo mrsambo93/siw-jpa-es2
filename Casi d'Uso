@@ -1,0 +1,11 @@
+1 Caso d'Uso
+-	Inserisci nuovo cliente
+	(Sistema registra nome, cognome, email, n.telefono, data di nascita)
+	(Il sistema assegna al Cliente un ID univoco)
+	
+2 Caso d'Uso
+	Visualizza lista Clienti
+	(Il sistema restituisce una lista dei dati di tutti i Clienti incluso l'indirizzo)
+	
+"Facade" = facciata, metodo/i a disposizione degli altri Svilppatori
+CustomerFacade
