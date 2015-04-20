@@ -20,7 +20,7 @@ import javax.persistence.TemporalType;
 @Entity
 @NamedQuery(name="findAllCustomer", query="SELECT c FROM Customer c")
 public class Customer {
-	
+	//Ciao Proma
 	@Id
 	@GeneratedValue(strategy = GenerationType.AUTO)
 	private Long id;
